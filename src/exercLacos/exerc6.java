@@ -23,7 +23,7 @@ public class exerc6 {
 		}while(numero !=0);
 		
 			media = multiplos / cont;
-			System.out.println("A média dos números multiplos de 3 é: "+media);
+			System.out.printf("A média dos números multiplos de 3 é: %.1f",media);
 		
 	}
 }
